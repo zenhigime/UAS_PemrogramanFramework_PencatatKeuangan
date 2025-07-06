@@ -1,0 +1,14 @@
+.aboutcontainer {
+  /* Menambahkan flexbox untuk mengatur tata letak konten */
+  display: flex; /* Menggunakan flexbox */
+  flex-direction: column; /* Mengatur tata letak menjadi kolom, artinya satu di bawah yang lain */
+  gap: 24px; /* Jarak antara card */
+}
+
+.aboutcard {
+  /* Menambahkan padding, background color, border-radius, dan box-shadow untuk card */
+  padding: 16px; /* Padding di dalam card */
+  background-color: white; /* Warna latar belakang card */
+  border-radius: 12px; /* Membuat sudut card menjadi lebih bulat */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Efek bayangan */
+}
