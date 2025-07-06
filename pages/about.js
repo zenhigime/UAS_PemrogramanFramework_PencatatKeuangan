@@ -20,11 +20,11 @@ import styles from "../styles/about.module.css";
 const GITHUB_USERNAME = "zenhigime";
 // Username GitHub yang digunakan untuk fetch data repositori
 
-const VIDEO_URL = "https://youtu.be/C0G5deYU48o";
+const VIDEO_URL = "https://youtu.be/3SI1ahOn2jg";
 // URL video penjelasan tugas
 
 const GITHUB_REPO_LINK =
-  "https://github.com/zenhigime/UAS_pemrogramanFramework";
+  "https://github.com/zenhigime/UAS_PemrogramanFramework_PencatatKeuangan";
 // Link repo utama sebagai fallback jika fetch repos gagal
 
 // Komponen halaman About untuk menampilkan:
